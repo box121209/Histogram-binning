@@ -23,9 +23,9 @@ Note that this minimum is problematic for three reasons: (1) the population dens
 The histbins choice of number of bins tends to work better than R's defaults for some distributions (e.g. Gaussian mixtures), but less well for others (e.g. chi-squared).
 }
 \author{
-Bill Oxbury
+box121209
 
-Maintainer: <wmoxbur@gchq>
+Maintainer: box121209
 }
 \references{
 Larry Wasserman, All of Statistics (Springer 2004), chap 20
