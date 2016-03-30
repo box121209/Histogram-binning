@@ -39,7 +39,7 @@ An integer from range
 %% ~put references to the literature/web site here ~
 }
 \author{
-Bill Oxbury
+box121209
 }
 \note{
 %%  ~~further notes~~
