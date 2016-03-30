@@ -3,7 +3,7 @@ Type: Package
 Title: Histogram bin-count optimiser
 Version: 1.0
 Date: 2013-12-04
-Author: Bill Oxbury
-Maintainer: <wmoxbur@gchq>
+Author: box121209
+Maintainer: box121209
 Description: Computes number of histogram bins by minimising the cross-validation risk estimator.
 License: UKG
